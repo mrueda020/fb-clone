@@ -1,4 +1,4 @@
-/* .sidebar {
-  display: flex;
-  align-items: center;
-} */
+.sidebar {
+  padding: 20px 10px;
+  flex: 0.33;
+}

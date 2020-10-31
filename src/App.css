@@ -1,8 +1,9 @@
 .app__body {
   display: flex;
+  justify-content: space-between;
+  background-color: #f1f2f5ef;
 }
 
 .app {
   height: 100vh;
-  background-color: #f1f2f5;
 }

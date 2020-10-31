@@ -10,6 +10,8 @@ function PostSender() {
     e.preventDefault();
     alert(input);
     alert(imgSrc);
+    setInput("");
+    setimgSrc("");
   };
   return (
     <div class="postSender">
